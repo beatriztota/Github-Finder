@@ -1,6 +1,6 @@
 # GitHub Finder
 
-![GitHub Finder](github_finder/src/img/github-finder.PNG)
+![GitHub Finder](src/img/github-finder.PNG)
 
 ## Descrição
 
@@ -19,8 +19,8 @@ Você pode acessar uma demonstração do aplicativo [aqui]().
 
 ## Tecnologias Utilizadas
 
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **TypeScript**: Superset de JavaScript que adiciona tipagem estática.
+- *React*: Biblioteca JavaScript para construção de interfaces de usuário.
+- *TypeScript*: Superset de JavaScript que adiciona tipagem estática.
 
 
 ## Como Executar o Projeto
@@ -32,29 +32,29 @@ Você pode acessar uma demonstração do aplicativo [aqui]().
 
 ### Passos para Execução
 
-1. **Clone o repositório**
+1. *Clone o repositório*
 
-   
-bash
+   ```bash
    git clone https://github.com/beatriztota/github-finder.git
    cd github-finder
 
 2. **Instale as dependências**
-bash
+
+   ```bash
    npm install
 
-3. **Configure as variáveis de ambiente**:
+3. *Configure as variáveis de ambiente*:
 crie um arquivo .env na raiz do projeto e adicione sua chave de API do GitHub:
 
-    
-bash
+    ```bash
     REACT_APP_GITHUB_API_KEY=your_github_api_key
 
 4. **Execute a aplicação**
-bash
+
+   ```bash
    npm start
 
-5. **Abra seu navegador**
+5. *Abra seu navegador*
 
    A aplicação estará disponível em http://localhost:3000.
  
