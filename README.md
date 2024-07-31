@@ -32,7 +32,7 @@ Você pode acessar uma demonstração do aplicativo [aqui]().
 
 ### Passos para Execução
 
-1. *Clone o repositório*
+1. **Clone o repositório**
 
    ```bash
    git clone https://github.com/beatriztota/github-finder.git
@@ -43,7 +43,7 @@ Você pode acessar uma demonstração do aplicativo [aqui]().
    ```bash
    npm install
 
-3. *Configure as variáveis de ambiente*:
+3. **Configure as variáveis de ambiente**:
 crie um arquivo .env na raiz do projeto e adicione sua chave de API do GitHub:
 
     ```bash
@@ -54,7 +54,7 @@ crie um arquivo .env na raiz do projeto e adicione sua chave de API do GitHub:
    ```bash
    npm start
 
-5. *Abra seu navegador*
+5. **Abra seu navegador**
 
    A aplicação estará disponível em http://localhost:3000.
  
