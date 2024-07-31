@@ -15,7 +15,7 @@ O GitHub Finder é uma aplicação web desenvolvida em TypeScript e React que pe
 
 ## Demonstração
 
-Você pode acessar uma demonstração do aplicativo [aqui]().
+Você pode acessar uma demonstração do aplicativo [aqui](https://github-finder-tan-rho.vercel.app/).
 
 ## Tecnologias Utilizadas
 
