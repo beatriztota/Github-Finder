@@ -1,6 +1,6 @@
 # GitHub Finder
 
-![GitHub Finder](src/img/github-finder.PNG)
+![GitHub Finder](/img/electrum-page.PNG)
 
 ## Descrição
 
